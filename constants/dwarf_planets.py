@@ -1,7 +1,7 @@
 surface_gravity = {
-    'PLUTO': 0.62,
-    'ERIS': 0.82,
-    'CERES': 0.27,
-    'MAKEMAKE': 0.5,
-    'HAUMEA': 0.401,
+    'PLUTO': 0.063,
+    'ERIS': 0.084,
+    'CERES': 0.029,
+    'MAKEMAKE': 0.051,
+    'HAUMEA': 0.0247,
 }
